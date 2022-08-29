@@ -16537,7 +16537,7 @@
     (property "Reference" "J14" (id 0) (at 588.01 557.5299 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Limiter_Bypass" (id 1) (at 588.01 560.0699 0)
+    (property "Value" "Limiter" (id 1) (at 588.01 560.0699 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 586.74 557.53 0)
@@ -19997,7 +19997,7 @@
       (reference "J13") (unit 1) (value "CONN_4_M") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
     )
     (path "/b18475d5-6343-4acb-bd24-25e10771e259"
-      (reference "J14") (unit 1) (value "Limiter_Bypass") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J14") (unit 1) (value "Limiter") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/546c834a-8fe9-4bc4-8620-035838b0cfd9"
       (reference "J15") (unit 1) (value "out -U") (footprint "Connector_B:Banana_Jack_1Pin")
