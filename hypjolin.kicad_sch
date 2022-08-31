@@ -16943,7 +16943,7 @@
     (property "Value" "DJ06D2412A" (id 1) (at 128.27 682.6249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_B:DIP1549W45P254L3404H940Q24" (id 2) (at 102.87 669.29 0)
+    (property "Footprint" "Package_DIP:DIP-24_W15.24mm" (id 2) (at 102.87 669.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 102.87 669.29 0)
@@ -20681,7 +20681,7 @@
       (reference "U8") (unit 5) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/bf0bffb0-76aa-41c5-979d-ca96c48f2290"
-      (reference "U9") (unit 1) (value "DJ06D2412A") (footprint "Connector_B:DIP1549W45P254L3404H940Q24")
+      (reference "U9") (unit 1) (value "DJ06D2412A") (footprint "Package_DIP:DIP-24_W15.24mm")
     )
     (path "/d14e205e-53df-4f30-bedb-f4b3bb3c1818"
       (reference "damp1") (unit 1) (value "100k") (footprint "Triglav:MusicThingModular-9MM_SNAP-IN_POT")
