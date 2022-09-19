@@ -28,3 +28,13 @@ fp-info-cache
 *.xml
 *.csv
 .DS_Store
+panel_pcb.kicad_pro
+panel_pcb.kicad_pcb
+panel_gerber/netlist.ipc
+panel_gerber/gerber.zip
+panel/hypjolin_panel_cutout.fpd
+panel-jlcpcb/
+main_pcb.kicad_pro
+main_pcb.kicad_pcb
+main_gerber/
+main-jlcpcb/
