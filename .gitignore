@@ -38,3 +38,10 @@ main_pcb.kicad_pro
 main_pcb.kicad_pcb
 main_gerber/
 main-jlcpcb/
+jlcpcb-main/
+jlcpcb-panel/
+*.icloud
+*.zip
+*.gbr
+*.drl
+*jlcpcb/
