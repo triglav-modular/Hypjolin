@@ -45,3 +45,6 @@ jlcpcb-panel/
 *.gbr
 *.drl
 *jlcpcb/
+tt_jacks/*
+old/*
+manual/*
